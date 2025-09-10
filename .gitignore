@@ -31,3 +31,4 @@ Release/
 .vs/
 .sln
 *.vcxproj*
+.vscode/
